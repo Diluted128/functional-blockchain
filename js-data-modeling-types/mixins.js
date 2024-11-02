@@ -1,0 +1,1 @@
+// look at HashHash and HasSignature with Transaction class
